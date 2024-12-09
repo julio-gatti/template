@@ -1,0 +1,11 @@
+## Rust
+target/
+
+## Visual Studio
+.vs/
+
+## Visual Studio - CMake
+out/
+
+## Visual Studio Code
+.vscode/
