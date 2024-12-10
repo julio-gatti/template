@@ -9,3 +9,6 @@ out/
 
 ## Visual Studio Code
 .vscode/
+
+# Added by Rust cargo init
+/target
