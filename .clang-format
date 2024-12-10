@@ -1,0 +1,10 @@
+---
+BasedOnStyle: LLVM
+---
+Language: Java
+AccessModifierOffset: -4
+#BreakBeforeBraces: Attach
+#ColumnLimit: 150
+IndentWidth: 4
+TabWidth: 4
+#UseTab: Never
